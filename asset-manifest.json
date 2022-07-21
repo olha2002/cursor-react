@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cursor-react/static/css/main.04f51215.css",
+    "main.js": "/cursor-react/static/js/main.c19debd6.js",
+    "static/js/787.93c0ff9f.chunk.js": "/cursor-react/static/js/787.93c0ff9f.chunk.js",
+    "static/media/verification.svg": "/cursor-react/static/media/verification.15641b4275d218ff400dc70c2c928d8b.svg",
+    "static/media/like.svg": "/cursor-react/static/media/like.832ece55e156cb07b9bf54ac16ac6080.svg",
+    "static/media/message.svg": "/cursor-react/static/media/message.3f68eeb3a8e465958e8947d6ae1885a6.svg",
+    "static/media/save.svg": "/cursor-react/static/media/save.aebc502ee97cb9327f4ef183df1b2b41.svg",
+    "index.html": "/cursor-react/index.html",
+    "static/media/repost.svg": "/cursor-react/static/media/repost.f3de95df6a1ff85e8275a1a7a1f87e18.svg",
+    "main.04f51215.css.map": "/cursor-react/static/css/main.04f51215.css.map",
+    "main.c19debd6.js.map": "/cursor-react/static/js/main.c19debd6.js.map",
+    "787.93c0ff9f.chunk.js.map": "/cursor-react/static/js/787.93c0ff9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04f51215.css",
+    "static/js/main.c19debd6.js"
+  ]
+}
